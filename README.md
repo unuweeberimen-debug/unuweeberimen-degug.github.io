@@ -1,2 +1,2 @@
-# unuweeberimen-degug.github.io
+# unuweeberimen-debug.github.io
 Website Pribadi eberimen unuwe
